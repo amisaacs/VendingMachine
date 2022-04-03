@@ -1,3 +1,8 @@
+VendingMachine is the first capstone project assigned at Tech Elevator.
+I worked on it with my classmate, Neville Fitch. 
+(Changes made after 14 Feb 2022, the date it was due, were made by me alone.)
+
+
 ## Module 1 Capstone - Vending Machine Software
 
 You've been asked to develop an application for the newest vending machine distributor,
